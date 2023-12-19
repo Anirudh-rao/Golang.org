@@ -5,14 +5,14 @@ import (
 	"math"
 )
 
-const s string  = "constant"
+const s string = "constant"
 
-func main(){
+func main() {
 	fmt.Println(5)
 
 	const n = 100000
 
-	const d = 3e20/n
+	const d = 3e20 / n
 	fmt.Println(d)
 
 	fmt.Println(int64(d))
