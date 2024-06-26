@@ -2,7 +2,7 @@ package Introduction
 
 import "fmt"
 
-func main() {
+func Variables() {
 	var a = "intial"
 	fmt.Println(a)
 

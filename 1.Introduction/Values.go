@@ -2,7 +2,7 @@ package Introduction
 
 import "fmt"
 
-func main() {
+func Values() {
 
 	fmt.Println("go" + "lang")
 
